@@ -49,9 +49,9 @@ The whole project is organized into the following directories:
 - `scheduler`: implementation of the TinyScheduler which is responsible for managing TinyKV nodes and for generating timestamps.
 - `log`: log utility to output log base	on level.
 
-### Course material
+### Course materials
 
-Please follow the course material to learn the background knowledge and finish code step by step.
+Please follow the course materials to learn the background knowledge and finish code step by step.
 
 - [Project1 - StandaloneKV](doc/project1-StandaloneKV.md)
 - [Project2 - RaftKV](doc/project2-RaftKV.md)
